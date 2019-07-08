@@ -30,6 +30,7 @@
 4、wifi网络的稳定性及http请求发生失败的概率及对应的应对策略。
 
 5、keep alive在http层和tcp层的不同
+6、同一局域网通讯，是否经过路由器（网关）https://www.zhihu.com/question/41496681
 
 
 
