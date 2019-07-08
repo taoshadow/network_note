@@ -29,6 +29,8 @@
 
 4、wifi网络的稳定性及http请求发生失败的概率及对应的应对策略。
 
+5、keep alive在http层和tcp层的不同
+
 
 
 
