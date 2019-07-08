@@ -1,0 +1,44 @@
+https://time.geekbang.org/column/article/8015 
+
+DNS 协议
+1、dns工具
+
+
+
+host  whois  nslookup   dig  工具
+
+http://tool.chinaz.com/dns/?type=1&host=www.baidu.com&ip=
+
+及dns协议分享
+
+https://blog.csdn.net/adparking/article/details/5819729
+
+正查反查
+
+
+2、whois 协议处理
+https://blog.csdn.net/huang3838438/article/details/7453873
+
+3、查看网络工具httpurlconnection的dns协议解析原理
+
+4、dns服务器和客户端设置
+https://blog.csdn.net/qq_36119192/article/details/82752515
+
+5、whois 隐私保护服务
+http://www.360doc.com/content/16/0628/14/30257152_571379201.shtml
+
+6、whois 命令
+https://blog.csdn.net/MONKEY_D_MENG/article/details/6173083
+
+
+http://www.ruanyifeng.com/blog/2016/06/dns.html
+
+7、dhcp服务器
+https://zhuanlan.zhihu.com/p/38477233
+
+8、mac层
+
+https://www.cnblogs.com/hzl6255/p/4084173.html
+
+9、只有13台ip的根服务器的原因
+https://jaminzhang.github.io/dns/The-Reason-of-There-Is-Only-13-DNS-Root-Servers/

@@ -1,0 +1,26 @@
+网络协议
+
+
+dhcp工作原理  https://www.cnblogs.com/happygirl-zjj/p/5976526.html
+
+
+
+组播路由基础和pim协议
+https://zhuanlan.zhihu.com/p/28361267
+
+ip组播
+http://support.huawei.com/enterprise/docinforeader!loadDocument1.action?contentId=DOC1000043953&partNo=10072
+
+pcap 原理https://baike.baidu.com/item/pcap/6226076?fr=aladdin
+达达拦截ele https://blog.csdn.net/mobilexu/article/details/51457500
+
+
+
+vpn service
+https://nishibaiyang.github.io/yanzijie_blog/2017/03/30/Android-VPN%E4%BB%8B%E7%BB%8D/
+https://nishibaiyang.github.io/yanzijie_blog/2017/03/30/Android-VPN%E4%BB%8B%E7%BB%8D/
+
+https://wangchujiang.com/linux-command/c/iptables.html
+
+package sniffer
+https://github.com/gandharv09/RRCpacketSniffer
