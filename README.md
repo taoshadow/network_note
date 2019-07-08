@@ -31,6 +31,7 @@
 
 5、keep alive在http层和tcp层的不同
 6、同一局域网通讯，是否经过路由器（网关）https://www.zhihu.com/question/41496681
+7、wifi adhoc点对点通讯https://baike.baidu.com/item/Ad%20hoc/534288?fromtitle=Ad-hoc&fromid=10823688&fr=aladdin
 
 
 
