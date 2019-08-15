@@ -34,6 +34,10 @@
 7、wifi adhoc点对点通讯https://baike.baidu.com/item/Ad%20hoc/534288?fromtitle=Ad-hoc&fromid=10823688&fr=aladdin
 
 
+#考核方式
+每个人需要提出5个issue并解决其他人5个issue.
+
+
 
 
 
