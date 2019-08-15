@@ -1,0 +1,13 @@
+
+# 习题
+1、esptouch发送过多的包是否会影响路由器吞吐量 
+
+2、局域网通讯的可靠性和实时性
+
+3、p2p的通讯原理以及技术难点评估和demo实现。
+
+4、wifi网络的稳定性及http请求发生失败的概率及对应的应对策略。
+
+5、keep alive在http层和tcp层的不同
+6、同一局域网通讯，是否经过路由器（网关）https://www.zhihu.com/question/41496681
+7、wifi adhoc点对点通讯https://baike.baidu.com/item/Ad%20hoc/534288?fromtitle=Ad-hoc&fromid=10823688&fr=aladdin
